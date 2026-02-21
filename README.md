@@ -278,7 +278,7 @@ Agent_RGPD/
 
 ## 👤 À propos
 
-Projet développé par **Seallia**.
+Projet développé par **Poncelet Dorian**.
 
 🔗 **Portfolio TryHackMe** : [tryhackme.com/p/seallia81](https://tryhackme.com/p/seallia81)
 
